@@ -48,6 +48,31 @@ img{
 .socical{
   margin: 25px 0;
 }
+.fa-instagram {
+  background: radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%,#d6249f 70%,#285AEB 90%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.fa-money-check-alt {
+  background: #AAB8C2;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.fa-twitter{
+  background: #1DA1F2;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.fa-facebook{
+  background: #3970fb;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.fa-youtube{
+  background: #FF0000;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
 .socical a{
   color: white;
   margin: 25px 20px;
